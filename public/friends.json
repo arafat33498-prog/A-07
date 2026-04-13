@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "picture": "https://randomuser.me/api/portraits/men/1.jpg",
+    "email": "john@example.com",
+    "days_since_contact": 12,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "Met in university. Love hiking together.",
+    "goal": 10,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Williams",
+    "picture": "https://randomuser.me/api/portraits/women/2.jpg",
+    "email": "sarah@example.com",
+    "days_since_contact": 5,
+    "status": "on track",
+    "tags": ["office", "team"],
+    "bio": "Work colleague and project partner.",
+    "goal": 14,
+    "next_due_date": "2026-04-25"
+  },
+  {
+    "id": 3,
+    "name": "Michael Brown",
+    "picture": "https://randomuser.me/api/portraits/men/3.jpg",
+    "email": "michael@example.com",
+    "days_since_contact": 20,
+    "status": "overdue",
+    "tags": ["gym", "buddy"],
+    "bio": "Gym partner, very fitness motivated.",
+    "goal": 7,
+    "next_due_date": "2026-04-15"
+  },
+  {
+    "id": 4,
+    "name": "Emily Johnson",
+    "picture": "https://randomuser.me/api/portraits/women/4.jpg",
+    "email": "emily@example.com",
+    "days_since_contact": 2,
+    "status": "on track",
+    "tags": ["family"],
+    "bio": "Cousin, very close since childhood.",
+    "goal": 10,
+    "next_due_date": "2026-04-28"
+  },
+  {
+    "id": 5,
+    "name": "David Lee",
+    "picture": "https://randomuser.me/api/portraits/men/5.jpg",
+    "email": "david@example.com",
+    "days_since_contact": 15,
+    "status": "overdue",
+    "tags": ["school", "friend"],
+    "bio": "School friend, used to play cricket together.",
+    "goal": 12,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 6,
+    "name": "Sophia Martinez",
+    "picture": "https://randomuser.me/api/portraits/women/6.jpg",
+    "email": "sophia@example.com",
+    "days_since_contact": 7,
+    "status": "on track",
+    "tags": ["travel"],
+    "bio": "Met during a trip, love traveling.",
+    "goal": 14,
+    "next_due_date": "2026-04-27"
+  },
+  {
+    "id": 7,
+    "name": "Daniel Wilson",
+    "picture": "https://randomuser.me/api/portraits/men/7.jpg",
+    "email": "daniel@example.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["gaming"],
+    "bio": "Online gaming friend.",
+    "goal": 10,
+    "next_due_date": "2026-04-16"
+  },
+  {
+    "id": 8,
+    "name": "Olivia Taylor",
+    "picture": "https://randomuser.me/api/portraits/women/8.jpg",
+    "email": "olivia@example.com",
+    "days_since_contact": 3,
+    "status": "on track",
+    "tags": ["neighbor"],
+    "bio": "Friendly neighbor, often chat in evenings.",
+    "goal": 7,
+    "next_due_date": "2026-04-26"
+  }
+]
